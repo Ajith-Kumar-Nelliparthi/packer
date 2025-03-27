@@ -1,5 +1,4 @@
-# Project Title
-Packer
+# Packer
 
 # Description
 Packer is a tool designed to streamline the process of creating and managing application packages. It simplifies the packaging process, making it easier for developers to deploy their applications.
@@ -28,4 +27,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 # Contact Information
 For any inquiries, please contact:
-- Your Name - [nelliparthi123@gmail.com](mailto:nelliparthi123@gmail.com)
+- Ajith Kumar Nelliparthi - [nelliparthi123@gmail.com](mailto:nelliparthi123@gmail.com)
